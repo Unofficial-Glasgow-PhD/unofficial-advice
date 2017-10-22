@@ -10,7 +10,7 @@ title: Home
         {% for page in {{ site.pages | sort 'advice_number', 'last'}} %}
         <li>
             <a href="{{ site.baseurl }}{{ page.url }}">
-                {{ post.title }}
+                {{ page.title }}
             </a>
         </li>
         {% endfor %}
