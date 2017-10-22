@@ -1,0 +1,18 @@
+---
+layout: default
+title: Home
+---
+
+<p>A list of advice for PhD students:</p>
+
+<div class="page-listing">
+    <ul>
+        {% for page in {{ site.pages | sort 'advice_number', 'last'}} %}
+        <li>
+            <a href="{{ site.baseurl }}{{ post.url }}">
+                {{ post.title }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
+</div>

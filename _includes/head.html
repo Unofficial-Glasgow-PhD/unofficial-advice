@@ -1,0 +1,21 @@
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>
+    {% if page.title == "Home" %}
+      {{ site.title }} &middot; {{ site.tagline }}
+    {% else %}
+      {{ page.title }} &middot; {{ site.title }}
+    {% endif %}
+  </title>
+
+  <link rel="stylesheet" href="{{ site.baseurl }}/tufte.css">
+
+  <!-- If a favicon for this ever exists, we can re-enable this... -->
+  <!-- <link rel="shortcut icon" href="{{ site.baseurl }}/public/favicon.ico"> -->
+
+  <!-- Will we actually have RSS? Will there be any kind of regular post?! Consider removing. -->
+  <link rel="alternate" type="application/atom+xml" title="{{ site.title }}" href="{{ site.baseurl }}/atom.xml">
+
+</head>
