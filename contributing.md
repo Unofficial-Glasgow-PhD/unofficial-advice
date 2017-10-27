@@ -25,6 +25,6 @@ If you'd like to change multiple files or make more complicated changes, or just
 * If your advice is new, create a fork of the repo where you can do your work. 
 * Check the existing pages to see where it should fit. 
     * If you find a page where it's suitable, make the edit there and submit a pull request!
-    * If not, we'll have to add a page.
-      Do this by copying the preamble (the dashed lines at the top of a markdown file in the repo) and add your advice underneath, swapping out the title for something more suitable.<span class="sidenote">Email [Tom Wallis at w.wallis.1 -at- research.gla.ac.uk](mailto:w.wallis.1@research.gla.ac.uk) if you have problems adding a page, and he can help.</span>
+    * If not, we'll have to add a page.<span class="marginnote">Email [Tom Wallis at w.wallis.1 -at- research.gla.ac.uk](mailto:w.wallis.1@research.gla.ac.uk) if you have problems adding a page, and he can help.</span>
+      Do this by copying the preamble (the dashed lines at the top of a markdown file in the repo) and add your advice underneath, swapping out the title for something more suitable.
 * Now, submit your pull request.
