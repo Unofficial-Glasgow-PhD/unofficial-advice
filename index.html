@@ -7,7 +7,7 @@ title: Home
 
 <div class="page-listing">
     <ul>
-        {% for page in {{ site.pages | sort 'advice_number', 'last'}} %}
+        {% for page in site.pages %}
         <li>
             <a href="{{ site.baseurl }}{{ page.url }}">
                 {{ page.title }}
