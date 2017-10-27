@@ -24,13 +24,13 @@ title: Home
 <div class="page-listing">
     <ul>
         {% for page in site.pages %}
-        {% if page.title and not page.special_page %}
+        {% if page.title %} {% unless page.special_page %}
         <li>
             <a href="{{ site.baseurl }}{{ page.url }}">
                 {{ page.title }}
             </a>
         </li>
-        {% endif %}
+        {% endunless %}{% endif %}
         {% endfor %}
     </ul>
 </div>
