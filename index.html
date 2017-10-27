@@ -3,16 +3,34 @@ layout: default
 title: Home
 ---
 
-<p>A list of advice for PhD students:</p>
+<p>Some special pages that come before the actual advice</p>
 
-<div class="page-listing">
+<div class="special pages">
     <ul>
         {% for page in site.pages %}
+        {% if page.title and page.special_page %}
         <li>
             <a href="{{ site.baseurl }}{{ page.url }}">
                 {{ page.title }}
             </a>
         </li>
+        {% endif %}
+        {% endfor %}
+    </ul>
+    </div>
+
+<p>A list of advice for PhD students:</p>
+
+<div class="page-listing">
+    <ul>
+        {% for page in site.pages %}
+        {% if page.title and not page.special_page %}
+        <li>
+            <a href="{{ site.baseurl }}{{ page.url }}">
+                {{ page.title }}
+            </a>
+        </li>
+        {% endif %}
         {% endfor %}
     </ul>
 </div>
