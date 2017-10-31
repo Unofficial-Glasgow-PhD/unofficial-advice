@@ -17,3 +17,7 @@ Particularly, we'd love to recieve submissions of advice on topics like:
 * Finding a second supervisor (for those who have to)
 * Interdisciplinary PhDs
 * Preparing for the first year progression viva
+* What to expect going into your first year
+    * What's expected of you?
+    * What's *not* expected of you?
+* Research integrity
