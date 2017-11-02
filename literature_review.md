@@ -16,7 +16,7 @@ A literature review is pretty crucial for a few reasons:
 
 So while a literature review is quite an important part of your PhD, there's a lot to gain in doing it right, too.
 
-## Writing the literature review
+## Practical advice
 
 Some advice from [Tim Storer's advice document for new PHD students](https://github.com/twsswt/glasgow_socs_phd_bootstrap/blob/7809bee64b55ac714a8bee4d8e6de926776513ce/README.md):
 
