@@ -8,11 +8,12 @@ layout: page
 A literature review is pretty crucial for a few reasons:
 
 * It's expected that you produce one for your first year viva
-* It's the only way to get up-to-speed on exactly what the state-of-the-art is in your field
-* It teaches you as a researcher-in-training a fundamental skill: reading and assessing other people's work
+* It teaches you as a researcher-in-training a fundamental skill: properly reading and assessing other people's work
 * It gives you context for:
     * Thinking about viable hypotheses and experiments
     * Bringing insight into any discussion on your field
+* It lowers the chances you'll repeat research which is already well documented
+* It lets you identify what niches exist that you might be able to exploit for *exciting and new research*
 
 So while a literature review is quite an important part of your PhD, there's a lot to gain in doing it right, too.
 
