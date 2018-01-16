@@ -7,7 +7,7 @@ layout: page
 
 What should a new student expect in their typical first year? What's good practice? Maybe things like advice on the social side of things etc could go here.
 
-<span class="marginnote">From [Tim Storer's advice to new PhD students](https://unofficial-glasgow-phd.github.io/unofficial-advice/)</span>
+<span class="marginnote">From [Tim Storer's advice to new PhD students](https://unofficial-glasgow-phd.github.io/unofficial-advice://github.com/twsswt/glasgow_socs_phd_bootstrap)</span>
 
 The first year of a PhD can seem very daunting, with lots of potential avenues to explore and the prospect of a
 progression viva just four months away.  The purpose of the viva is to assess the likelihood of a student completing
@@ -58,4 +58,4 @@ From [Tim Storer's advice document](https://github.com/twsswt/glasgow_socs_phd_b
 
 ## Useful links
 
-[Tim Storer's advice for PhD students could go here.](https://github.com/twsswt/glasgow_socs_phd_bootstrap) What else is useful?
+[Tim Storer's advice for PhD students could go here.](https://github.com/twsswt/glasgow_socs_phd_bootstrap) <!--What else is useful?-->
